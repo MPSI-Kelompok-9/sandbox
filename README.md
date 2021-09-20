@@ -1,28 +1,28 @@
 # sandbox
 
-### perintah yang paling sering digunakan :
+## Perintah yang paling sering digunakan :
 
 ---
 
-***1. Clone repositori (ini)***
+**1. Clone repositori (ini)**
 
 ```
 git clone https://github.com/MPSI-Kelompok-9/sandbox.git
 ```
 
-***2. Menambahkan semua file yang sudah di edit***
+**2. Menambahkan semua file yang sudah di edit**
 
 ```
 git add .
 ```
 
-***3. Melakukan commit***
+**3. Melakukan commit**
 
 ```
 git commit -m "pesan commit"
 ```
 
-***4. Push/Upload ke GitHub (di repositori ini)***
+**4. Push/Upload ke GitHub (di repositori ini)**
 
 ```
 git push
@@ -34,7 +34,7 @@ kalau ada branch lain
 git push -u origin <nama_branch>
 ```
 
-### Referensi :
+## Referensi :
 ---
 
-[Cheatsheet Command di GIT](https://education.github.com/git-cheat-sheet-education.pdf)
+- [Cheatsheet Command di GIT](https://education.github.com/git-cheat-sheet-education.pdf)
