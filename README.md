@@ -2,8 +2,6 @@
 
 ## Perintah yang paling sering digunakan :
 
----
-
 **1. Clone repositori (ini)**
 
 ```
@@ -28,13 +26,12 @@ git commit -m "pesan commit"
 git push
 ```
 
-kalau ada branch lain
+atau kalau ada branch lain
 
 ```
 git push -u origin <nama_branch>
 ```
 
 ## Referensi :
----
 
 - [Cheatsheet Command di GIT](https://education.github.com/git-cheat-sheet-education.pdf)
